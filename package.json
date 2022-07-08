@@ -2,7 +2,7 @@
   "name": "mathpowerclay",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mhoe4.github.io/mathpowerclay",
+  "homepage": "http://mathpowerclay.github.io/mathpowerclay",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",

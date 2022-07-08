@@ -1,5 +1,6 @@
 import React from "react";
 import "../../App.css";
+import { Link } from "react-scroll";
 
 function PowerClay() {
   return (
@@ -16,9 +17,14 @@ function PowerClay() {
           <br />
           <h3>3.5 kilograms 40$ </h3>
           <h3>($25 to 40 shipping? tbd)</h3>
+          <h4>refined ventilated aka sundried. </h4>
           <h4>
-            refined ventilated (aka sundried. SEE definition and process of
-            ventilated clay in this email and its benefits)
+            <Link to="hero" spy={true} smooth={true} duration={500}>
+              <u>
+                (CLICK HERE TO SEE definition and process of ventilated clay and
+                its benefits)
+              </u>
+            </Link>
           </h4>
           <br />
           <ul>

@@ -165,9 +165,6 @@ function PowerClay() {
           <h3>contact for pricing</h3>
           <h3>(shipping tbd)</h3>
           <br />
-          <ul>
-            <li>BEAUTY ROCK : WAKE UP MAKE UP</li>
-          </ul>
         </div>
       </div>
     </>

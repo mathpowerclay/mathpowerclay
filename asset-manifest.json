@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mathpowerclay/static/css/main.3b23da4d.chunk.css",
+    "main.css": "/mathpowerclay/static/css/main.22c942ce.chunk.css",
     "main.js": "/mathpowerclay/static/js/main.87cb4ad2.chunk.js",
     "main.js.map": "/mathpowerclay/static/js/main.87cb4ad2.chunk.js.map",
     "runtime-main.js": "/mathpowerclay/static/js/runtime-main.18e1e102.js",
@@ -8,15 +8,15 @@
     "static/js/2.47b36e1b.chunk.js": "/mathpowerclay/static/js/2.47b36e1b.chunk.js",
     "static/js/2.47b36e1b.chunk.js.map": "/mathpowerclay/static/js/2.47b36e1b.chunk.js.map",
     "index.html": "/mathpowerclay/index.html",
-    "precache-manifest.a2528e91997116ba54b625007d57ddf7.js": "/mathpowerclay/precache-manifest.a2528e91997116ba54b625007d57ddf7.js",
+    "precache-manifest.083a77944b3c88ff2636622252751483.js": "/mathpowerclay/precache-manifest.083a77944b3c88ff2636622252751483.js",
     "service-worker.js": "/mathpowerclay/service-worker.js",
-    "static/css/main.3b23da4d.chunk.css.map": "/mathpowerclay/static/css/main.3b23da4d.chunk.css.map",
+    "static/css/main.22c942ce.chunk.css.map": "/mathpowerclay/static/css/main.22c942ce.chunk.css.map",
     "static/js/2.47b36e1b.chunk.js.LICENSE.txt": "/mathpowerclay/static/js/2.47b36e1b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.18e1e102.js",
     "static/js/2.47b36e1b.chunk.js",
-    "static/css/main.3b23da4d.chunk.css",
+    "static/css/main.22c942ce.chunk.css",
     "static/js/main.87cb4ad2.chunk.js"
   ]
 }

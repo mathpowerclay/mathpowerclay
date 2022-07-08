@@ -1,29 +1,36 @@
-import React from 'react';
-import '../App.css';
-import { Button } from './Button';
-import './HeroSection.css';
+import React from "react";
+import "../App.css";
+import { Button } from "./Button";
+import "./HeroSection.css";
 
 function HeroSection() {
   return (
-    <div className='hero-container'>
-      <video src='/videos/video-1.mp4' autoPlay loop muted />
-      <h1>ADVENTURE AWAITS</h1>
-      <p>What are you waiting for?</p>
-      <div className='hero-btns'>
+    <div id="hero" className="hero-container">
+      {/* <video src="/videos/video-1.mp4" autoPlay loop muted /> */}
+      <h1>
+        POWER CLAY&nbsp;<img src="https://i.imgur.com/4Hoofgg.png"></img>
+      </h1>
+
+      <p style={{ textAlign: "center" }}>
+        𝙼𝚊𝚗 𝚠𝚊𝚜 𝚖𝚊𝚍𝚎 𝚘𝚏 𝚌𝚕𝚊𝚢 & 𝚝𝚑𝚎 𝚊𝚗𝚜𝚠𝚎𝚛 𝚝𝚘 𝚢𝚘𝚞𝚝𝚑 𝚊𝚗𝚍 𝚑𝚎𝚊𝚕𝚒𝚗𝚐 𝚒𝚜 𝚊𝚛𝚝 + 𝚌𝚕𝚊𝚢
+      </p>
+      <div className="hero-btns">
         <Button
-          className='btns'
-          buttonStyle='btn--outline'
-          buttonSize='btn--large'
+          className="btns"
+          buttonStyle="btn--outline"
+          buttonSize="btn--large"
+          onClick={"contact"}
         >
-          GET STARTED
+          CONTACT
         </Button>
         <Button
-          className='btns'
-          buttonStyle='btn--primary'
-          buttonSize='btn--large'
-          onClick={console.log('hey')}
+          className="btns"
+          buttonStyle="btn--primary"
+          buttonSize="btn--large"
+          onClick={"cards"}
         >
-          WATCH TRAILER <i className='far fa-play-circle' />
+          POWER CLAY&nbsp;
+          <img src="https://i.imgur.com/mBbBQCc.png"></img>
         </Button>
       </div>
     </div>

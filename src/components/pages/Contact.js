@@ -9,11 +9,11 @@ function Contact() {
         <span>
           <a
             className="contact-link"
-            href="mailto:mathpowerclay@mailfence.com"
+            href="mailto:mathpowerland@gmail.com"
             target="_blank"
             aria-label="Instagram"
           >
-            EMAIL: mathpowerclay@mailfence.com
+            EMAIL: mathpowerland@gmail.com
           </a>
         </span>
         <br />

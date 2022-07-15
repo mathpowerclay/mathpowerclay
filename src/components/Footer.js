@@ -89,7 +89,7 @@ function Footer() {
             </Link> */}
             <a
               className="social-icon-link instagram"
-              href="mailto:mathpowerclay@mailfence.com"
+              href="mailto:mathpowerland@gmail.com"
               target="_blank"
               aria-label="Email"
             >

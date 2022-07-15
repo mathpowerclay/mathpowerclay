@@ -12,7 +12,37 @@ function HeroSection() {
       </h1>
 
       <p style={{ textAlign: "center" }}>
-        𝙼𝚊𝚗 𝚠𝚊𝚜 𝚖𝚊𝚍𝚎 𝚘𝚏 𝚌𝚕𝚊𝚢 & 𝚝𝚑𝚎 𝚊𝚗𝚜𝚠𝚎𝚛 𝚝𝚘 𝚢𝚘𝚞𝚝𝚑 𝚊𝚗𝚍 𝚑𝚎𝚊𝚕𝚒𝚗𝚐 𝚒𝚜 𝚊𝚛𝚝 + 𝚌𝚕𝚊𝚢
+        𝙼𝚊𝚗 𝚠𝚊𝚜 𝚖𝚊𝚍𝚎 𝚘𝚏 𝚌𝚕𝚊𝚢 & 𝚝𝚑𝚎 𝚊𝚗𝚜𝚠𝚎𝚛 𝚝𝚘 𝚢𝚘𝚞𝚝𝚑 𝚊𝚗𝚍 𝚑𝚎𝚊𝚕𝚒𝚗𝚐 𝚒𝚜 𝚊𝚛𝚝 + 𝚌𝚕𝚊𝚢{" "}
+        <br />
+        𝑾𝒊𝒕𝒉 𝑳𝒐𝒗𝒆, 𝒇𝒓𝒐𝒎 <br />
+        <div>
+          <a
+            className="ig-link"
+            href="https://www.instagram.com/maththeartist/"
+            target="_blank"
+            aria-label="Instagram"
+          >
+            @maththeartist
+          </a>{" "}
+          &{" "}
+          <a
+            className="ig-link"
+            href="https://www.instagram.com/shepowerland/"
+            target="_blank"
+            aria-label="Instagram"
+          >
+            @shepowerland
+          </a>
+          <br />
+          <a
+            className="ig-link"
+            href="https://www.instagram.com/mathpowerclay/"
+            target="_blank"
+            aria-label="Instagram"
+          >
+            @mathpowerclay
+          </a>
+        </div>
       </p>
       <div className="hero-btns">
         <Button

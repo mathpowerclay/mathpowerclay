@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/mathpowerclay/static/css/main.9f75aed7.chunk.css",
-    "main.js": "/mathpowerclay/static/js/main.59addd2e.chunk.js",
-    "main.js.map": "/mathpowerclay/static/js/main.59addd2e.chunk.js.map",
+    "main.css": "/mathpowerclay/static/css/main.251e35e0.chunk.css",
+    "main.js": "/mathpowerclay/static/js/main.e87f1a7e.chunk.js",
+    "main.js.map": "/mathpowerclay/static/js/main.e87f1a7e.chunk.js.map",
     "runtime-main.js": "/mathpowerclay/static/js/runtime-main.18e1e102.js",
     "runtime-main.js.map": "/mathpowerclay/static/js/runtime-main.18e1e102.js.map",
     "static/js/2.47b36e1b.chunk.js": "/mathpowerclay/static/js/2.47b36e1b.chunk.js",
     "static/js/2.47b36e1b.chunk.js.map": "/mathpowerclay/static/js/2.47b36e1b.chunk.js.map",
     "index.html": "/mathpowerclay/index.html",
-    "precache-manifest.bd38e35034bf557b8668e59af48302d4.js": "/mathpowerclay/precache-manifest.bd38e35034bf557b8668e59af48302d4.js",
+    "precache-manifest.c4aa25b7fe5ba2809af98e908faaa829.js": "/mathpowerclay/precache-manifest.c4aa25b7fe5ba2809af98e908faaa829.js",
     "service-worker.js": "/mathpowerclay/service-worker.js",
-    "static/css/main.9f75aed7.chunk.css.map": "/mathpowerclay/static/css/main.9f75aed7.chunk.css.map",
+    "static/css/main.251e35e0.chunk.css.map": "/mathpowerclay/static/css/main.251e35e0.chunk.css.map",
     "static/js/2.47b36e1b.chunk.js.LICENSE.txt": "/mathpowerclay/static/js/2.47b36e1b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.18e1e102.js",
     "static/js/2.47b36e1b.chunk.js",
-    "static/css/main.9f75aed7.chunk.css",
-    "static/js/main.59addd2e.chunk.js"
+    "static/css/main.251e35e0.chunk.css",
+    "static/js/main.e87f1a7e.chunk.js"
   ]
 }

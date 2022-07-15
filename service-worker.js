@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mathpowerclay/precache-manifest.bd38e35034bf557b8668e59af48302d4.js"
+  "/mathpowerclay/precache-manifest.c4aa25b7fe5ba2809af98e908faaa829.js"
 );
 
 self.addEventListener('message', (event) => {

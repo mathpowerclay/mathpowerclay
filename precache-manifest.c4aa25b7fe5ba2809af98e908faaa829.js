@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "997b6f778baf012c11b3961456209337",
+    "revision": "e8acbb2d42d85ed6fdafecf34520aa91",
     "url": "/mathpowerclay/index.html"
   },
   {
-    "revision": "fdd38c032f71d381ffba",
-    "url": "/mathpowerclay/static/css/main.9f75aed7.chunk.css"
+    "revision": "bc05e9d7b2273fb322a4",
+    "url": "/mathpowerclay/static/css/main.251e35e0.chunk.css"
   },
   {
     "revision": "1a59ff6a7b7766ccb374",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mathpowerclay/static/js/2.47b36e1b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fdd38c032f71d381ffba",
-    "url": "/mathpowerclay/static/js/main.59addd2e.chunk.js"
+    "revision": "bc05e9d7b2273fb322a4",
+    "url": "/mathpowerclay/static/js/main.e87f1a7e.chunk.js"
   },
   {
     "revision": "cdba6a610d45529ac351",
